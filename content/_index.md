@@ -1,5 +1,5 @@
 +++
-title = "Syna Theme"
-date = "2017-09-07"
-description = "Open Source Theme from Okkur for your next project"
+title = "Bayesian Ops"
+date = "2021-12-17"
+description = "Planning and execution of Bayesian operations"
 +++
