@@ -1,13 +1,13 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Bayesian Ops"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
 
 # Google Analytics tracking
-googleAnalytics = ""
+googleAnalytics = "G-Q2Q0SXYL1G"
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Bayesian Ops"
+  description = "Planning and execution of Bayesian operations."
 
   [params.style]
     #background = "secondary"
