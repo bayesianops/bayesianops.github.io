@@ -12,6 +12,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "logo.svg"
-  text = "Syna"
+  image = "bayesianops_logo.png"
+  text = "Bayesian Ops"
 +++

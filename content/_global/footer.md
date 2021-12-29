@@ -1,16 +1,16 @@
 +++
 fragment = "footer"
 #disabled = true
-date = "2016-09-07"
+date = "2021-12-17"
 weight = 1200
 #background = ""
 
 menu_title = "Link Title"
 
 [asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
+  title = "Bayesian Ops"
+  image = "bayesianops_logo.png"
+  text = "Bayesian Ops logo"
   url = "#"
 +++
 
