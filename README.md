@@ -1,3 +1,11 @@
+# Run Instructions
+
+`hugo server -D`
+
+
+-------
+
+
 <a href='https://syna.okkur.org'><img src='https://raw.githubusercontent.com/okkur/syna-start/master/static/images/logo.svg?sanitize=true' width='500'/></a>
 
 Start repository for Syna Theme
