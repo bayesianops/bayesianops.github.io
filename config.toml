@@ -1,3 +1,15 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bayesianops.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'hello@bayesianops.com'
+theme = "hello-friend-ng"
+
+[params]
+  homeSubtitle = ""
+
+  description = "Bayesian Ops"
+  keywords = "Bayesian, ops"
+
+[params.logo]
+  logoCursorDisabled = true
+  logoText = " "
+  logoMark = " "
