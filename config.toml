@@ -1,3 +1,15 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bayesianops.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bayesian Ops'
+theme = "introduction"
+
+[params]
+    themeStyle                   = "light"                  # Choose "light" or "dark" or "auto"
+    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+
+    # Configure the home page
+    [params.home]
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        showLatest               = false                    # Show latest blog post summary
+
