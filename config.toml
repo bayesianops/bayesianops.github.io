@@ -1,6 +1,6 @@
 baseURL = 'https://bayesianops.com/'
 languageCode = 'en-us'
-title = 'hello@bayesianops.com'
+title = 'info@bayesianops.com'
 theme = "hello-friend-ng"
 
 [params]
